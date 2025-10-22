@@ -19,7 +19,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/yourusername/Amazon-Price-Tracker.git
+git clone https://github.com/insharahmani/Amazon-WebScrapper-Project
 
 
 Install required Python packages:
